@@ -111,7 +111,7 @@ export default function App() {
             <a href="#services" className="text-gray-300 hover:text-white transition-colors">Services</a>
             <a href="#use-cases" className="text-gray-300 hover:text-white transition-colors">Use Cases</a>
             <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
-            <GlassButton variant="primary">Get Started</GlassButton>
+            <GlassButton variant="primary"><a href="https://api.whatsapp.com/send/?phone=923440536408&text&type=phone_number&app_absent=0">Get Started</a></GlassButton>
           </motion.div>
         </nav>
       </header>
